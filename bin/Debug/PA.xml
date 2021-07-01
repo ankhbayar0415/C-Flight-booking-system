@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PA>
+  <Flight>
+    <FlightName>Sofia-Blago</FlightName>
+    <FlightID>1</FlightID>
+    <From>Sofia</From>
+    <To>Blago</To>
+    <Stopovers>2</Stopovers>
+    <AirplaneName>Airline</AirplaneName>
+    <Capacity>43</Capacity>
+    <NumberOfRows>3</NumberOfRows>
+    <Meal>YES</Meal>
+    <DepartureDate>12.25.2019</DepartureDate>
+    <ArrivalDate>12.26.2019</ArrivalDate>
+    <DepartureTime>9 : 0</DepartureTime>
+  </Flight>
+  <Flight>
+    <FlightName>Mongolia-Bulgaria</FlightName>
+    <FlightID>123</FlightID>
+    <From>Mongolia</From>
+    <To>Bulgaria</To>
+    <Stopovers>4</Stopovers>
+    <AirplaneName>Boeing 777</AirplaneName>
+    <Capacity>1</Capacity>
+    <NumberOfRows>1</NumberOfRows>
+    <Meal>YES</Meal>
+    <DepartureDate>12.26.2019</DepartureDate>
+    <ArrivalDate>12.27.2019</ArrivalDate>
+    <DepartureTime>9 : 10GMT</DepartureTime>
+  </Flight>
+  <Flight>
+    <FlightName>India-Africa</FlightName>
+    <FlightID>999</FlightID>
+    <From>India</From>
+    <To>Africa</To>
+    <Stopovers>0</Stopovers>
+    <AirplaneName>Qatar</AirplaneName>
+    <Capacity>3</Capacity>
+    <NumberOfRows>4</NumberOfRows>
+    <Meal>NO</Meal>
+    <DepartureDate>12.1.2019</DepartureDate>
+    <ArrivalDate>12.2.2019</ArrivalDate>
+    <DepartureTime>5 : 10GMT</DepartureTime>
+  </Flight>
+</PA>
